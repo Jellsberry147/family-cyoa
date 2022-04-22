@@ -1,7 +1,7 @@
 {
   "name": "family-cyoa",
   "version": "0.1.0",
-  "homepage": "https://Jellsberry147.github.io/cyoa/home",
+  "homepage": "https://jellsberry147.github.io/family-cyoa/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
