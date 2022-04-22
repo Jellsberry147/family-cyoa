@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cyoa/home/static/css/main.1b5af5b9.css",
+    "main.js": "/cyoa/home/static/js/main.3e26d962.js",
+    "index.html": "/cyoa/home/index.html",
+    "main.1b5af5b9.css.map": "/cyoa/home/static/css/main.1b5af5b9.css.map",
+    "main.3e26d962.js.map": "/cyoa/home/static/js/main.3e26d962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5af5b9.css",
+    "static/js/main.3e26d962.js"
+  ]
+}
