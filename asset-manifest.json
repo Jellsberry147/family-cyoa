@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/family-cyoa/static/css/main.33a1dd40.css",
-    "main.js": "/family-cyoa/static/js/main.1a6c65e3.js",
+    "main.css": "/family-cyoa/static/css/main.15222fc2.css",
+    "main.js": "/family-cyoa/static/js/main.ea16d958.js",
     "index.html": "/family-cyoa/index.html",
-    "main.33a1dd40.css.map": "/family-cyoa/static/css/main.33a1dd40.css.map",
-    "main.1a6c65e3.js.map": "/family-cyoa/static/js/main.1a6c65e3.js.map"
+    "main.15222fc2.css.map": "/family-cyoa/static/css/main.15222fc2.css.map",
+    "main.ea16d958.js.map": "/family-cyoa/static/js/main.ea16d958.js.map"
   },
   "entrypoints": [
-    "static/css/main.33a1dd40.css",
-    "static/js/main.1a6c65e3.js"
+    "static/css/main.15222fc2.css",
+    "static/js/main.ea16d958.js"
   ]
 }
