@@ -1,18 +1,62 @@
 .root {
   margin: 0;
+  padding: 0;
   font-size: 16px;
-  width: 100%;
   display: flex;
+  color: #333;
+}
+
+Body {
+  background-color: #333;
+  margin: 10%;
 }
 
 h2 {
-  color: red;
+  text-decoration-line: underline;
 }
 
-.home {
-  width: 75%;
+.pageBackground {
+  background-color: #333;
+}
+
+.page {
+  border-radius: 3px 0px 0px 3px;
   border: 1px solid;
   text-align: center;
   justify-content: center;
   align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgb(213, 216, 196) 0%,
+    rgb(207, 202, 185) 100%
+  );
+}
+
+.pageContent {
+  margin: 10%;
+  padding: 0 0 300px 0;
+}
+
+.pages {
+  width: 100%;
+}
+.pageChoice {
+  padding: 50px;
+}
+.pageLink {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  width: 30%;
+  background-color: #333;
+  color: rgb(213, 216, 196);
+}
+
+.leftLink {
+  float: left;
+}
+
+.rightLink {
+  float: right;
 }
