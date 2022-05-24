@@ -28,7 +28,7 @@ function App() {
       <div className="display">
         <Routes>
           {/*Don't forget to add the "family-cyoa" path to the front of these links.*/}
-          <Route path="/family-cyoa/" element={<Page1 />} />
+          <Route path="/family-cyoa/page1" element={<Page1 />} />
           <Route path="/family-cyoa/page2" element={<Page2 />} />
           <Route path="/family-cyoa/page3" element={<Page3 />} />
           <Route path="/family-cyoa/page4" element={<Page4 />} />
