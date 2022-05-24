@@ -28,26 +28,26 @@ function App() {
       <div className="display">
         <Routes>
           {/*Don't forget to add the "family-cyoa" path to the front of these links.*/}
-          <Route path="/page1" element={<Page1 />} />
-          <Route path="/page2" element={<Page2 />} />
-          <Route path="/page3" element={<Page3 />} />
-          <Route path="/page4" element={<Page4 />} />
-          <Route path="/page5" element={<Page5 />} />
-          <Route path="/page6" element={<Page6 />} />
-          <Route path="/page7" element={<Page7 />} />
-          <Route path="/page8" element={<Page8 />} />
-          <Route path="/page9" element={<Page9 />} />
-          <Route path="/page10" element={<Page10 />} />
-          <Route path="/page11" element={<Page11 />} />
-          <Route path="/page12" element={<Page12 />} />
-          <Route path="/page13" element={<Page13 />} />
-          <Route path="/page14" element={<Page14 />} />
-          <Route path="/page15" element={<Page15 />} />
-          <Route path="/page16" element={<Page16 />} />
-          <Route path="/page17" element={<Page17 />} />
-          <Route path="/page18" element={<Page18 />} />
-          <Route path="/page19" element={<Page19 />} />
-          <Route path="/page20" element={<Page20 />} />
+          <Route path="/family-cyoa/page1" element={<Page1 />} />
+          <Route path="/family-cyoa/page2" element={<Page2 />} />
+          <Route path="/family-cyoa/page3" element={<Page3 />} />
+          <Route path="/family-cyoa/page4" element={<Page4 />} />
+          <Route path="/family-cyoa/page5" element={<Page5 />} />
+          <Route path="/family-cyoa/page6" element={<Page6 />} />
+          <Route path="/family-cyoa/page7" element={<Page7 />} />
+          <Route path="/family-cyoa/page8" element={<Page8 />} />
+          <Route path="/family-cyoa/page9" element={<Page9 />} />
+          <Route path="/family-cyoa/page10" element={<Page10 />} />
+          <Route path="/family-cyoa/page11" element={<Page11 />} />
+          <Route path="/family-cyoa/page12" element={<Page12 />} />
+          <Route path="/family-cyoa/page13" element={<Page13 />} />
+          <Route path="/family-cyoa/page14" element={<Page14 />} />
+          <Route path="/family-cyoa/page15" element={<Page15 />} />
+          <Route path="/family-cyoa/page16" element={<Page16 />} />
+          <Route path="/family-cyoa/page17" element={<Page17 />} />
+          <Route path="/family-cyoa/page18" element={<Page18 />} />
+          <Route path="/family-cyoa/page19" element={<Page19 />} />
+          <Route path="/family-cyoa/page20" element={<Page20 />} />
           <Route path="/family-cyoa/Menu" element={<Menu />} />
         </Routes>
       </div>

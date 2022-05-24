@@ -30,10 +30,10 @@ export function Page1() {
             </p>
           </div>
           <div className="pages">
-            <Link to="/page7/" className="leftLink pageLink">
+            <Link to="/family-cyoa/page7/" className="leftLink pageLink">
               Page 7
             </Link>
-            <Link to="/page13/" className="rightLink pageLink">
+            <Link to="/family-cyoa/page13/" className="rightLink pageLink">
               Page 13
             </Link>
           </div>
